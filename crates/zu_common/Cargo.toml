@@ -1,0 +1,13 @@
+[package]
+name = "zu_common"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1"
+nom = "7"
+flate2 = "1"
+regex = "1"
+bytes = "1"
+crc = "3"
+log = "0.4"
